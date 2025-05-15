@@ -5,10 +5,6 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-%233776AB)
 ![License](https://img.shields.io/badge/license-MIT-%233DA639)
 
-<div align="center">
-  <img src="https://github.com/yourusername/healthcare-recommendation-system/blob/main/assets/healthcare-ai.jpg?raw=true" alt="Healthcare AI" width="600">
-</div>
-
 ## 🌟 Overview
 
 An intelligent recommendation system that transforms healthcare through personalized AI-powered suggestions. Our system analyzes comprehensive health profiles to deliver tailored medical advice, improving patient outcomes and healthcare efficiency.
