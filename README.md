@@ -25,10 +25,6 @@ An intelligent recommendation system that transforms healthcare through personal
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github.com/yourusername/healthcare-recommendation-system/blob/main/assets/tech-stack.png?raw=true" alt="Tech Stack" width="800">
-</div>
-
 **Core Components:**
 - **🧠 AI Engine**: Scikit-learn, TensorFlow, PyTorch
 - **📊 Data Processing**: Pandas, NumPy, Spark
