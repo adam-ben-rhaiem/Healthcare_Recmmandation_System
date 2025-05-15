@@ -3,7 +3,6 @@
 ![Healthcare](https://img.shields.io/badge/domain-healthcare-%23007ACC)
 ![Machine Learning](https://img.shields.io/badge/AI%2FML-recommendation%20system-%23FF6F00)
 ![Python](https://img.shields.io/badge/python-3.8%2B-%233776AB)
-![License](https://img.shields.io/badge/license-MIT-%233DA639)
 
 ## 🌟 Overview
 
