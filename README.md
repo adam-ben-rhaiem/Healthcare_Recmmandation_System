@@ -39,7 +39,7 @@ An intelligent recommendation system that transforms healthcare through personal
 ### Installation
 ```bash
 # Clone with authentication submodule
-git clone --recurse-submodules https://github.com/yourusername/healthcare-recommendation-system.git
+git clone --recurse-submodules https://github.com/adam-ben-rhaiem/Healthcare-Recommendation-System.git
 
 # Set up environment
 cd healthcare-recommendation-system
