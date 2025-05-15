@@ -14,7 +14,7 @@ An intelligent recommendation system that transforms healthcare through personal
 | Feature | Description | Technology Used |
 |---------|------------|-----------------|
 | **🧪 Personalized Treatment** | AI-curated treatment plans based on medical history | Scikit-learn, XGBoost |
-| **💊 Smart Medication Advisor** | Drug recommendations with allergy and interaction checks | Knowledge Graphs |
+| **💊 Smart Medication Advisor** | Drug recommendations with allergy and interaction checks |
 | **👨‍⚕️ Provider Matching** | Doctor/specialist matching with patient needs | Cosine Similarity |
 | **🥗 Lifestyle Coach** | Custom diet & exercise plans | NLP, Clinical Guidelines |
 | **🤒 Symptom Analyzer** | Preliminary diagnosis from symptoms | Neural Networks |
@@ -22,18 +22,16 @@ An intelligent recommendation system that transforms healthcare through personal
 ## 🛠️ Tech Stack
 
 **Core Components:**
-- **🧠 AI Engine**: Scikit-learn, TensorFlow, PyTorch
-- **📊 Data Processing**: Pandas, NumPy, Spark
-- **🌐 API Layer**: FastAPI/Flask with Swagger docs
-- **🗄️ Database**: MongoDB Atlas (for unstructured data) + PostgreSQL (for relational data)
-- **📱 Frontend**: React.js dashboard (optional)
-- **🔐 Security**: HIPAA-compliant encryption
+- **🧠 AI Engine**: Scikit-learn, TensorFlow
+- **📊 Data Processing**: Pandas, NumPy
+- **🌐 API Layer**: Flask with Swagger docs
+- **🗄️ Database**: PostgreSQL
+- **📱 Frontend**: React.js dashboard 
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 - Python 3.8+
-- MongoDB Atlas account
 - Clinical dataset (synthetic or approved real data)
 
 ### Installation
