@@ -14,7 +14,7 @@ An intelligent recommendation system that transforms healthcare through personal
 | Feature | Description | Technology Used |
 |---------|------------|-----------------|
 | **🧪 Personalized Treatment** | AI-curated treatment plans based on medical history | Scikit-learn, XGBoost |
-| **💊 Smart Medication Advisor** | Drug recommendations with allergy and interaction checks |
+| **💊 Smart Medication Advisor** | Drug recommendations with allergy and interaction checks |Knowledge Graphs |
 | **👨‍⚕️ Provider Matching** | Doctor/specialist matching with patient needs | Cosine Similarity |
 | **🥗 Lifestyle Coach** | Custom diet & exercise plans | NLP, Clinical Guidelines |
 | **🤒 Symptom Analyzer** | Preliminary diagnosis from symptoms | Neural Networks |
